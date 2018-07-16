@@ -1,0 +1,18 @@
+body {
+  background-color: silver;
+}
+
+.carousel {
+  border: 5px solid black;
+  /* max-width: 50%; */
+}
+
+.col {
+  text-align: center;
+  /* height: 30vh; */
+}
+
+/* img {
+  height: 400px;
+  width: 600px;
+} */
